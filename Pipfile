@@ -16,4 +16,4 @@ faker = "*"
 flask-bcrypt = "1.0.1"
 
 [requires]
-python_full_version = "*"
+python_full_version = "3.8.13"
