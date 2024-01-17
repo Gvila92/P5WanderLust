@@ -11,7 +11,7 @@ Werkzeug = "2.2.2"
 flask-migrate = "*"
 sqlalchemy-serializer = "*"
 flask-restful = "*"
-flask-cors = "4.0. 0."
+flask-cors = "4.0.0"
 faker = "*"
 flask-bcrypt = "1.0.1"
 
