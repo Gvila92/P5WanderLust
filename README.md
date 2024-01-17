@@ -19,8 +19,10 @@ python server/app.py
 #Create a new terminal and then run these commands
 -make sure you are in the Frontend  which is located in the client
 
-cd client 
+cd client
+
 npm install
+
 npm start
 
 
