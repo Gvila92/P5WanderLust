@@ -57,7 +57,7 @@ name": "client",
 
 
 Current state of the website*
-able to succefully log in and sign up, the information for the user is stored in the backend.
+able to successfully log in and sign up, the information for the user is stored in the backend.
 using context outlet when the user is logged in it will conditionally render the signup and login and display the profile dropdown menu that contains "Create Blog" "My blogs" " and logout
 When the user creates a blog they are able to navigate to my blogs and view,edit and delete 
 
