@@ -16,18 +16,16 @@ pipenv shell
 python server/app.py
 
 #Create a new terminal and then run these commands
+-make sure you are in the Frontend  which is located in the client
 
-cd client or where the front end is located
+cd client 
+npm install
+npm start
 
-npm install --prefix client
-           or
-      npm install    
 
-#To run the the front end server
 
-npm start --prefix client
-         or
-      npm start       
+       
+
 
 
 #the package.json contains all the depencencies as well as a proxy 
