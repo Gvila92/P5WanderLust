@@ -7,6 +7,8 @@ Getting started*
 
 #To download the dependencies for the backend server, run:
 
+-make sure you are in the project directory where app.py is located- 
+
 pipenv install
 
 pipenv shell
