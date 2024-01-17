@@ -8,6 +8,7 @@ Getting started*
 #To download the dependencies for the backend server, run:
 
 pipenv install
+
 pipenv shell
 
 
